@@ -21,7 +21,7 @@
     <message>
         <location filename="dialog.ui" line="52"/>
         <source>Hello, World!</source>
-        <translation type="unfinished">你好，世界！</translation>
+        <translation type="unfinished">世界，你好！</translation>
     </message>
 </context>
 <context>
